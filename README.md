@@ -52,4 +52,4 @@ Board for connecting the 360 phat RF board to a PC, with sync using the power bu
 Everything here is best effort, some things are made with older versions of KiCad, but should work with the latest as well.
 
 
-Any issues let me know! Questions welcome as well!
+Any issues, let me know! Questions welcome as well!
