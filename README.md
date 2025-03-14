@@ -32,6 +32,7 @@ unused component footprints, more granular control of settings, compatible with 
 
 vanilla_v1_0: Older design of above. Also no QFG support.
 
+
 RGH - xc2c128:
 
 Nothing is tested here, probably works.
@@ -41,9 +42,11 @@ Nand_CPLD:
 
 Nand flasher and glitch chip programmer. Tested and works 100%! Compatible with matrix nand flasher firmware found in Jrunner. Needs a bootloader to be flashed first, for which a pickit port has been added to the bottom of the board (can be used with ohter programmes too). You can also just press the pinheaders against the port, no need to solder or get expensive horizontal pinheaders. After bootloader is flashed, use firmware in Jrunner folder.
 
+
 SyncRF360:
 Board for connecting the 360 phat RF board to a PC, with sync using the power button so you can re-sync without connecting the RF board back to the 360.
 
 Everything here is best effort, some things are made with older versions of KiCad, but should work with the latest as well.
+
 
 Any issues let me know! Questions welcome as well!
