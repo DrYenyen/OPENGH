@@ -8,7 +8,7 @@ zip file contain:
 - A folder named gerber, which is the gerbers needed to build the boards.
 - A folder named source_project containing the Kicad Project for the board.
 - Inside the source_project folder there is another folder named "footprint" where you will find the footprints for the project
-- Some footprints came with a nazi lisense, so a link to them is provided
+- Some footprints came with a nazi lisense, so a link to them is provided insead
 
   Quick explanation of the boards
 
