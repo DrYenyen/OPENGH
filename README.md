@@ -29,6 +29,7 @@ standard-size-nano: Early alpha, but work
 
 vanilla-hybrid_v1_1: Latest board design. Similar size to the rev. c, but totaly different design. Better and easy to find voltage reguators, less parts, better signal manipulation, MUCH better settings description, no 
 unused component footprints, more granular control of settings, compatible with standard xc2c64a and QFG verion chips, vertical programming port, generally a different board design for modern timing files released by Octal450.
+
 vanilla_v1_0: Older design of above. Also no QFG support.
 
 RGH - xc2c128:
