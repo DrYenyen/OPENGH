@@ -29,7 +29,7 @@ standard-qfg-ams-reworked-tht: THT design, 0 logic, but works! Only tested with 
 standard-size-nano: Early alpha, but work
 
 vanilla-hybrid_v1_1: Latest board design. Similar size to the rev. c, but totaly different design. Better and easy to find voltage reguators, less parts, better signal manipulation, MUCH better settings description, no 
-unused component footprints, more granular control of settings, compatible with standard xc2c64a and QFG verion chips, vertical programming port, generally a different board design for modern timing files released by Octal450.
+unused component footprints, more granular control of settings, compatible with standard xc2c64a and QFG verion chips, vertical programming port, generally a different board design for modern timing files released by Octal450. Labeled rev. V as I dodn't know what to call the project folder and decided to use "vanilla" so now it is revision vanilla.
 
 vanilla_v1_0: Older design of above. Also no QFG support.
 
