@@ -1,7 +1,8 @@
 # OPENGH
 Open source RGH
 
-OPENGH is an open source RGH project. Nothing new here, just best effort resleases of 360 modding hardware.
+OPENGH is an open source RGH project. Started around 2017, most designs are from 2020-2022. They were supposed to be better, but the project got overlooked for a few years, so it is getting released in it's current state. Most of the things here should work, but everything is "use at your own risk". Put simply, just best effort resleases of 360 modding hardware. Feel free to use the schematics and board designs as you see fit at your own discretion and risk in accordance with applicable laws and regulations. This is only meant to allow you to boot into Xell and install Linux on your console.
+
 Quick guide:
 zip file contain:
 - A folder named gerber, which is the gerbers needed to build the boards.
