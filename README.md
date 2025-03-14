@@ -12,7 +12,7 @@ zip file contain:
 - Some footprints came with a nazi lisense, so a link to them is provided insead
 
 
-  Quick explanation of the boards:
+Quick explanation of the boards:
 
 RGH - xc2c64a:
 
